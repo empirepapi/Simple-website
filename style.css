@@ -1,0 +1,65 @@
+body {
+background-color:seashell
+color: rgba(237, 16, 16, 0.783);
+}
+h1 {
+    background-color:seashell
+    padding: 1rem;
+}
+.site-nav, .site-footer {
+
+    background-color:ghostwhite;
+    color: purple;
+    padding: 0.5rem;
+    margin: 1rem 0;
+}
+.site-nav ul {
+    padding: 0;
+    margin: 0;
+
+
+}
+.site-nav li {
+    display: inline;
+    margin: right 0.5rem; ;
+
+
+}
+.site-nav a,
+.site-footer a{
+
+    color: black;
+    text-decoration: none;
+}
+.site-footer {
+    text-align: right;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.site-header h1 {
+    margin-bottom: 0;
+
+
+
+}
+.site-header p {
+    margin-top: 0;
+
+
+}
+.infoboxes {
+    text-align: center;
+    background-color: beige;
+    padding: 1rem ;
+    margin-bottom: 1rem;
+}
+
+.Infobox {
+    text-align: center;
+    background-color: beige;
+    padding: 1rem;
+    margin: 1rem;
+}
+
